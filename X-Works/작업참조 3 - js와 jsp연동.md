@@ -3,7 +3,8 @@
 
 ### 1. 기본 조회  
 참고: HR03120 (구:CM0204030)    
-![image](https://user-images.githubusercontent.com/61939286/133907479-b202d3aa-1797-4e1d-a72e-f7bfe3a70052.png)  
+![image](https://user-images.githubusercontent.com/91272170/134527925-9908419f-b71d-4676-ba5d-a685c96ee638.png)
+
 
 ```js
 //구소스 형태
